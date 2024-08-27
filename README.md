@@ -1,8 +1,5 @@
 # Delicious Cookie First Quarter Sales Report Analysis
 
-### Dashboard Link
-https://app.powerbi.com/groups/me/reports/30e83fda-567a-405c-ac55-b92e708f501f/ReportSection?experience=power-bi
-
 ## Problem Statement
 This sales report helps optimize sales strategies and enhance overall business performance by conducting a comprehensive analysis of product sales data, regional sales variations, and sales trends. This analysis aims to identify the key factors driving the success of top-performing products, understand the causes of regional sales disparities, and examine the impact of trends and promotional activities on sales. The insights gained will help in developing targeted marketing strategies, improving product management, and planning effective promotional campaigns, ultimately leading to increased revenue, market share, and sustained business growth.
 
